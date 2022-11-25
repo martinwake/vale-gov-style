@@ -17,4 +17,4 @@ This repository contains a single zip file `gov-uk.zip`, which includes the foll
 - Upper-case.yml
 
 ## Acknowlegments
-After going round in circles for a long time with various tools I found out about Vale from a talk given by @sabrinaharris about [this project](https://github.com/sabrinaharris/linting-prototype), which uses Vale to lint technical documentation.
+After going round in circles for a long time with various tools I found out about Vale from a talk given by [@sabrinaharris](https://github.com/sabrinaharris) about [this project](https://github.com/sabrinaharris/linting-prototype), which uses Vale to lint technical documentation against a broader set of style rules.

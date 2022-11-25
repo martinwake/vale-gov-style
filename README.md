@@ -1,5 +1,5 @@
 # Check for GOV.UK style
-This repository contains rules for the [style checking tool Vale] (https://vale.sh/) that check against the [GOV.UK A-Z guidelines](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style) and [Words to avoid list](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid).
+This repository contains rules for the [style checking tool Vale](https://vale.sh/) that check against the [GOV.UK A-Z guidelines](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style) and [Words to avoid list](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid).
 
 ## Things to note
 - This project isn't associated with GOV.UK or GDS. 

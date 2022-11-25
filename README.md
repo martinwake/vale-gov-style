@@ -2,7 +2,7 @@
 This repository contains rules for the [style checking tool Vale](https://vale.sh/) that check against the [GOV.UK A-Z Style Guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style) and [Words to avoid list](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid).
 
 ## Things to note
-- This project isn't associated with GOV.UK or GDS. 
+- This project is not associated with or supported by GOV.UK or GDS. 
 
 - It’s not a spellchecker. Vale comes with a built in US spellcheck dictionary but I haven't managed to find and implement a good en-GB one, and there are good enough options elsewhere.
   

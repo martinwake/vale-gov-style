@@ -8,12 +8,16 @@ This repository contains rules for the [style checking tool Vale](https://vale.s
 - It doesn’t include all the rules from the A-Z style guide. Some entries are general discussions like “Abbreviations” which are difficult to automate; others are just too discursive. It turns out that nearly 70% of the rules in the style guide are to do with capitalisation or hyphenation, so I’ve focused on those. 
 
 ## What is in this repository
-This repository contains a single zip file `gov-uk.zip`, which includes the following rules:
+Vale uses "packages" to manage style rules. [Read more about Vale packages](https://vale.sh/docs/topics/packages/)
+
+This repository contains a Vale style package, `gov-uk.zip`, which includes the following YAML files: 
 
 - Avoid.yml
 - Hyphens-spacing.yml
 - Lower-case.yml
 - Upper-case.yml
+
+Vale uses these to implement various rules  from from the GOV.UK A-Z Style Guide and list of words to avoid.
 
 ## Acknowlegments
 After going round in circles for a long time with various tools I found out about Vale from a talk given by [@sabrinaharris](https://github.com/sabrinaharris) about [this project](https://github.com/sabrinaharris/linting-prototype), which uses Vale to lint technical documentation against a broader set of style rules.

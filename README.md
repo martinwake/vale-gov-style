@@ -1,5 +1,5 @@
 # Check for GOV.UK style
-This repository contains rules for the [style checking tool Vale](https://vale.sh/) that check against the [GOV.UK A-Z Style Guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style) and [Words to avoid list](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid).
+This repository contains rules for the [style checking tool Vale](https://vale.sh/) that check against some of the rules in the [GOV.UK A-Z Style Guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style).
 
 ## Things to note
 
@@ -18,8 +18,8 @@ This repository contains a Vale style package, `gov-uk.zip`, which includes the 
 - Upper-case.yml
 
 Vale uses these to check your writing against:
-- capitalisation, hyphenation and spacing rules from the GOV.UK A-Z Style Guide (together these make up about 70% of the entries in the guide)
-- the list of words to avoid
+- capitalisation, hyphenation and spacing rules (together these make up about 70% of the entries in the A-Z style guide)
+- the list of [words to avoid](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid) 
 
 ## Acknowlegments
 After going round in circles for a long time with various tools I found out about Vale from a talk given by [@sabrinaharris](https://github.com/sabrinaharris) about [this project](https://github.com/sabrinaharris/linting-prototype), which uses Vale to lint technical documentation against a broader set of style rules.

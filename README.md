@@ -5,7 +5,7 @@ This repository contains rules for the [style checking tool Vale](https://vale.s
 
 - This is not a spellchecker. Vale comes with a built in US spellcheck dictionary but I haven't managed to find and implement a good en-GB one, and there are good enough options elsewhere.
   
-- It doesn’t include every entry from either source. Some style guide entries are general discussions like “Abbreviations” which are difficult to automate; others are just too discursive. In the "words to avoid" list, some are common words which should only be avoided in certain contexts (for example, when used as verbs rather than nouns).
+- It doesn't check against every entry in the style guide. Some are general discussions like “Abbreviations” which are difficult to automate; others are just too discursive. In the "words to avoid" list, some are common words which should only be avoided in certain contexts (for example, when used as verbs rather than nouns).
 
 ## What is in this repository
 Vale uses "packages" to manage style rules. [Read more about Vale packages](https://vale.sh/docs/topics/packages/)

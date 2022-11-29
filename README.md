@@ -21,5 +21,5 @@ Vale uses these to check your writing against:
 - capitalisation, hyphenation and spacing rules (together these make up about 70% of the entries in the A-Z style guide)
 - the list of [words to avoid](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid) 
 
-## Acknowlegments
+## Acknowledgments
 After going round in circles for a long time with various tools I found out about Vale from a talk given by [@sabrinaharris](https://github.com/sabrinaharris) about [this project](https://github.com/sabrinaharris/linting-prototype), which uses Vale to lint technical documentation against a broader set of style rules.

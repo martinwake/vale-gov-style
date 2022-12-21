@@ -1,5 +1,5 @@
 # Use Vale to check for GOV.UK style
-Configures the [prose linting tool Vale](https://vale.sh/) to check against the [GOV.UK A-Z Style Guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style).
+A style package for the [prose linting tool Vale](https://vale.sh/) to check against the [GOV.UK A-Z Style Guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style).
 
 ## Things to note
 

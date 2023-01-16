@@ -17,8 +17,8 @@ This repository contains a Vale style package, `gov-uk.zip`, which includes the 
 - Lower-case.yml
 - Upper-case.yml
 
-Vale uses these to check your writing against:
-- capitalisation, hyphenation and spacing rules (together these make up about 70% of the entries in the A-Z style guide)
+These rules will check your writing for:
+- capitalisation, hyphenation and spacing (together these make up about 70% of the entries in the A-Z style guide)
 - the list of [words to avoid](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid) 
 
 ## Thanks

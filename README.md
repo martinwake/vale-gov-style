@@ -3,7 +3,7 @@ A style package for the [prose linting tool Vale](https://vale.sh/) that impleme
 
 ## Things to note
 
-- This is not a spellchecker. Vale comes with a built in US spellcheck dictionary but I haven't managed to find and implement a good en-GB one, and there are good enough options elsewhere.
+- This is not a spellchecker. Vale comes with a built in US spellcheck dictionary (which this package doesn't check against for obvious reasons) but I haven't managed to find and implement a good en-GB one, and there are good enough options elsewhere.
   
 - It doesn't check against every entry in the style guide. Some are general discussions like “Abbreviations” which are difficult to automate; others are just too discursive. In the "words to avoid" list, some are common words which should only be avoided in certain contexts (for example, when used as verbs rather than nouns).
 

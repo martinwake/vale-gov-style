@@ -5,7 +5,7 @@ A style package for the [prose linting tool Vale](https://vale.sh/) that impleme
 
 - This is not a spellchecker. Vale comes with a built in US spellcheck dictionary (which this package doesn't check against for obvious reasons) but I haven't managed to find and implement a good en-GB one, and there are good enough options elsewhere.
   
-- It doesn't check against every entry in the style guide. Some are general discussions like “Abbreviations” which are difficult to automate; others are just too discursive. In the "words to avoid" list, some are common words which should only be avoided in certain contexts (for example, when used as verbs rather than nouns).
+- It doesn't check against every entry in the style guide. Some are general topics like “Abbreviations” which are difficult to automate; others are just too discursive. In the "words to avoid" list, some are common words which should only be avoided in certain contexts (for example, when used as verbs rather than nouns).
 
 ## What is in this repository
 Vale uses "packages" to manage style rules. [Read more about Vale packages](https://vale.sh/docs/topics/packages/)
@@ -22,7 +22,7 @@ These rules will check your writing for:
 - the list of [words to avoid](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid) 
 
 ## To do
-An interface that doesn't need the command line. This project is mainly aimed at content people who don't always have access to (or confidence with) command line tools or npm packages.
+* An interface that doesn't need the command line. This project is mainly aimed at content people who don't always have access to (or confidence with) command line tools or npm packages.
 
 ## Thanks
 After going round in circles for a long time with various tools I found out about Vale from a talk given by [@sabrinaharris](https://github.com/sabrinaharris) about [this project](https://github.com/sabrinaharris/linting-prototype), which uses Vale to lint technical documentation against a broader set of style rules.

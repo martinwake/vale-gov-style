@@ -22,6 +22,7 @@ These rules will check your writing for:
 - the list of [words to avoid](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid) 
 
 ## To do
+* Write basic how-to for getting Vale up and running
 * Try out GitHub Actions and GitHub Codespaces
 * Some kind of automation to keep the rules up to date when the style guide changes. Possibly based on JSON or screen scraping?
 * An interface that doesn't need the command line. This project is mainly aimed at content people who don't always have access to (or confidence with) command line tools or npm packages.
